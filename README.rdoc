@@ -1,3 +1,5 @@
+This is the repository for the first alpha_blog app of Ruby Rails.
+
 == README
 
 This README would normally document whatever steps are necessary to get the
