@@ -1,4 +1,4 @@
-This is the repository for the first alpha_blog app of Ruby Rails.
+This is the repository for the first alpha_blog app of Ruby Rails.git 
 
 == README
 
